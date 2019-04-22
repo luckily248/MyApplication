@@ -1,7 +1,13 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Vendorcrm</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_notifications">others</string>
     <string name="title_pipeline">Pipeline</string>
+    <string name="tempnumber">10</string>
+    <string name="tobecontacted">To Be Contacted</string>
+    <string name="suppliercontacted">Supplier Contacted</string>
+    <string name="supplierresponded">Supplier Responded</string>
+    <string name="applicationreceived">Application Received</string>
+    <string name="applicationsubmitted">Application Submitted</string>
 </resources>

@@ -9,6 +9,7 @@
     tools:context=".MainActivity">
 
     <LinearLayout
+        android:id="@+id/addbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="fill_vertical"
@@ -43,7 +44,8 @@
     <RelativeLayout
         android:id="@+id/index"
         android:layout_width="match_parent"
-        android:layout_height="450dp" />
+        android:layout_height="0dp"
+        android:layout_weight="1" />
 
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/navigation"

@@ -1,4 +1,4 @@
-package com.example.liangzhiying.myapplication.Model;
+package com.luke.liangzhiying.myapplication.Model;
 
 import java.sql.Time;
 

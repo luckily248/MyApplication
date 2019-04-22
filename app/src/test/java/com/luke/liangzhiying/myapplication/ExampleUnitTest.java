@@ -1,4 +1,4 @@
-package com.example.liangzhiying.myapplication;
+package com.luke.liangzhiying.myapplication;
 
 import org.junit.Test;
 
